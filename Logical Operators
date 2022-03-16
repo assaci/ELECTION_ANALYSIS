@@ -1,0 +1,2 @@
+#Open the election results and read the file
+election_data = open(file_to_load, 'r')
